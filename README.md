@@ -12,6 +12,9 @@ Welcome to my personal webpage!
 ### Self host webpage
 **Description**: Using a Raspeberry Pi with a headless install and constant IP I have set up my own webpage using wordpress connected to a server.
 
+### Hack the box and Hackerone
+**Description**: Following the penetration testing at school I have done alot of practise at home with these cool websites.
+
 ### html and css webpage
 **Description**: This was a project for school and created a small interactive webpage for a hotel booking system. <br>
 **Page**: [link](https://github.com/DanielGNorris/CodePublic/tree/53c1e3b8e19cd884eba65f322762c6f70ae643c2/Sharp%20Shack%20(HTML))
