@@ -14,7 +14,7 @@ Welcome to my personal webpage!
 
 ### html and css webpage
 **Description**: This was a project for school and created a small interactive webpage for a hotel booking system.
-**Project link**: https://github.com/DanielGNorris/CodePublic/tree/53c1e3b8e19cd884eba65f322762c6f70ae643c2/Sharp%20Shack%20(HTML)
+**Project link**: [https://github.com/DanielGNorris/CodePublic/tree/53c1e3b8e19cd884eba65f322762c6f70ae643c2/Sharp%20Shack%20(HTML)]
 
 ### Penetration practise at school
 **Description**: A company came into our school and taught us how to do some simple penetration testing and we did some practise on virtual machines.
