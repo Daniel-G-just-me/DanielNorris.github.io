@@ -1,4 +1,3 @@
-# Daniel Norris
 
 ## Introduction
 
